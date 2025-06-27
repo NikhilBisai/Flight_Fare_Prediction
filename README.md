@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Nikhil Bisai</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🔭 I’m currently working on [Flight Prediction EDA](https://github.com/NikhilBisai/Flight-Predictations-EDA)
+---
 
-- 🌱 I’m currently learning **Data Visualisation,Data Manipulation**
+## Flight Fare Prediction — Machine Learning with Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/NikhilBisai](https://github.com/NikhilBisai)
+This project demonstrates my ability to build and evaluate a machine learning model for predicting airline ticket prices using Python and key data science libraries. It involves hands-on experience with **data preprocessing**, **feature engineering**, **EDA**, and **regression modeling**—skills highly relevant for any data-driven role.
 
-- 💬 Ask me about **Python,Data Visualisation tools,Cloud Services**
+### Objectives
 
-- 📫 How to reach me **nikhilbisai12@gmail.com**
+- Predict airline ticket prices based on features like airline, source/destination, time, and duration
+- Apply data preprocessing techniques to prepare raw input for model training
+- Build interpretable models that offer practical insight into fare variability
 
-- 📄 Know about my experiences [https://github.com/NikhilBisai/Resume](https://github.com/NikhilBisai/Resume)
+### Key Steps
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhil bisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil bisai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/demonicslay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="demonicslay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/winnermindy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="winnermindy" height="30" width="40" /></a>
-</p>
+- **Data Cleaning & Preprocessing:** Handled missing values, converted categorical variables, engineered useful features like journey time and day of travel
+- **EDA & Visualization:** Discovered pricing trends using **Matplotlib**, identifying impact of flight duration, stops, and airline
+- **Model Development:** Trained and tuned regression models (e.g., Linear Regression, Random Forest) to accurately predict fares
+- **Model Evaluation:** Measured performance using MAE/RMSE and tested model generalizability
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilbisai&show_icons=true&locale=en&layout=compact" alt="nikhilbisai" /></p>
+| Tool       | Role                                        |
+|------------|---------------------------------------------|
+| Python     | Core analysis and modeling                  |
+| Pandas     | Data manipulation and wrangling             |
+| NumPy      | Numerical computations                      |
+| Matplotlib | Data visualization                          |
+| Sklearn    | Machine learning and model evaluation       |
+
+### What You’ll Learn from This Project
+
+- Ability to handle a complete ML project workflow
+- Strong understanding of regression and model evaluation techniques
+- Insight into airline pricing patterns and industry dynamics
+- Experience working with real-world data and non-trivial business problems
+
+---
